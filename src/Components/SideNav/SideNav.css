@@ -1,0 +1,24 @@
+.container-fluid {
+  padding: 0;
+  background-color: white;
+}
+
+.row {
+  margin: 0;
+  border-right: 0.01px solid rgb(222, 214, 214);
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+.nav-item:hover {
+  background-color: rgb(185, 181, 181);
+}
+
+.nav.flex-sm-column.flex-row.flex-nowrap.mb-auto.mx-auto.text-center.align-items-center
+  li {
+  width: 50px; /* Set a fixed width for each list item */
+  height: 50px; /* Set a fixed height for each list item */
+}

@@ -1,0 +1,42 @@
+a {
+  text-decoration: none;
+  color: black;
+}
+
+.nav {
+  padding-bottom: 5px;
+  border-bottom: 0.01px solid rgb(222, 214, 214);
+}
+
+.nav-item {
+  display: inline-block;
+  margin: 10px 5px;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.item {
+  border-radius: 7px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  width: 7.6rem;
+}
+.current {
+  color: rgb(67, 64, 222);
+  background-color: rgb(247, 246, 252);
+}
+
+.fa-home {
+  font-size: 1.2rem;
+  margin-top: 9px;
+  margin-right: 1rem;
+  margin-left: 1rem;
+}
+
+.fa-times {
+  margin-left: 4px;
+}
+
+.add-widget:hover {
+  opacity: 0.5;
+}

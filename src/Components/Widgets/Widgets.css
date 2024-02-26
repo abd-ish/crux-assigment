@@ -1,0 +1,13 @@
+.widget-container {
+  background-color: rgb(244, 244, 254);
+}
+
+.nav-item {
+  font-size: 18px;
+  cursor: pointer;
+}
+
+.highlight {
+  color: blue;
+  border-bottom: 3px solid blue;
+}
